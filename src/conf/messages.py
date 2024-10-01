@@ -1,0 +1,8 @@
+ACCOUNT_EXIST = "Account already exists"
+INVALID_EMAIL = "Invalid email"
+UNCONFIRMED_EMAIL = "Email not confirmed"
+INVALID_PASSWORD = "Invalid password"
+INVALID_REFRESH_TOKEN = "Invalid refresh token"
+VERIFICATION_ERROR = "Verification error"
+NO_CONTACT_FOUND = "No contact found"
+BIRTHDAYS_NOT_FOUND = "No birthdays found"
